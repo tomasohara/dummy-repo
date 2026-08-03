@@ -8,3 +8,6 @@ to file, and then run git-apply on result in separate copy of repo.
 After me:  vvv
 me:           
 Before me: ^^^
+
+## dummy section
+dummy
