@@ -12,3 +12,6 @@ Before me: ^^^
 ## dummy section
 dummy
 dummy two
+
+## TODO
+- resolve group permissions for shared git dirs
